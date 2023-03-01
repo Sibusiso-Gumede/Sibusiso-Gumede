@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Sibusiso Gumede.
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning AngularJS and React Native.
-- 💞️ I’m looking to collaborate on a web/mobile application.
-- 📫 How to reach me: sibusisojgumede@icloud.com
+Software Engineer
+Plant Dad
+Mixed Martial Artist
