@@ -1,3 +1,3 @@
 Software Engineer
-/Plant Dad
-/Mixed Martial Artist
+/ Plant Dad
+/ Mixed Martial Artist
