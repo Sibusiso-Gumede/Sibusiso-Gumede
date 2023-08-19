@@ -1,3 +1,3 @@
-Manage information.  
-Think from first principles.  
-Research and apply solutions.
+MANAGE INFORMATION.  
+THINK FROM FIRST PRINCIPLES.  
+RESEARCH AND APPLY SOLUTIONS.
