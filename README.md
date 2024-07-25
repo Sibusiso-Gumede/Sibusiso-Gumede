@@ -1,7 +1,7 @@
 About Me
 --------
 
-I am a passionate software developer with a fascination for building full stack applications including web, mobile, and desktop applications. I thrive on transforming an abstract concept into a useful product by virtue of the software development lifecycle process. Furthermore, I have a strong theoretical computer science background and possess an essential problem-solving prowess.
+I am a passionate software developer with a fascination for building full stack applications including web, mobile, and desktop applications. I thrive on transforming an abstract concept into a useful product by virtue of the software development lifecycle process.  Furthermore, I have a strong theoretical computer science background and possess an essential problem-solving prowess.
 
 * 🌍  I'm based in Pretoria, South Africa
 * ✉️  You can contact me at [sibusisojgumede@icloud.com](mailto:sibusisojgumede@icloud.com)
