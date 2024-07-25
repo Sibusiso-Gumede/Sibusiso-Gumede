@@ -5,9 +5,8 @@ I am a passionate software developer with a fascination for building full stack 
 
 Furthermore, I have a strong theoretical computer science background and possess an essential problem-solving prowess.
 
-* 🌍  I'm based in Pretoria, South Africa.
 * ✉️  You can contact me at [sibusisojgumede@icloud.com](mailto:sibusisojgumede@icloud.com)
-* 🧠  I'm learning Flutter/Dart.
+* 🧠  I'm learning Flutter/Dart and working on a grocery shopping web app (Discount My Groceries).
 * ⚡  During my leisure time I immerse myself in mixed martial arts and gardening.
 
 ### Languages
