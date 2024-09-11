@@ -1,13 +1,11 @@
 About Me
 --------
 
-I am a zealous software developer with a fascination for building full stack web, mobile, and desktop applications. I thrive on transforming an abstract concept into a useful product by virtue of the software development lifecycle process.  
+An engineer with a fascination for software systems research and development. I am passionate about building fullstack products, from developing the backend components to designing intuitive user interfaces. I am well acquainted with myriad technologies: including payment gateways, distributed systems, and more.
 
-Furthermore, I have a strong theoretical computer science background and possess an exceptional problem-solving prowess.
-
-* ✉️  You can contact me at [sibusisojgumede@icloud.com](mailto:sibusisojgumede@icloud.com)
 * 🧠  I'm learning Flutter/Dart and working on a grocery shopping web app (Discount My Groceries).
 * ⚡  During my leisure time I immerse myself in mixed martial arts and gardening.
+* ✉️  You can contact me at [sibusisojgumede@icloud.com](mailto:sibusisojgumede@icloud.com)
 
 ### Languages
 
