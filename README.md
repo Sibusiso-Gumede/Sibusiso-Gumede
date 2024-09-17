@@ -1,7 +1,7 @@
 About Me
 --------
 
-An engineer, tinkerer, autodidactic with an interest in software systems research and development. I am passionate about building fullstack products, from developing the backend components to designing intuitive user interfaces. I am well acquainted with a myriad of technologies: including payment gateways, distributed systems, and more.
+An engineer, tinkerer, autodidact with an interest in software systems research and development. I am passionate about building fullstack products, from developing the backend components to designing intuitive user interfaces. I am well acquainted with a myriad of technologies: including payment gateways, distributed systems, and more.
 
 * 🧠  I'm learning Flutter/Dart and working on a shopping utility app (Discount My Groceries).
 * ⚡  During my leisure time I immerse myself in mixed martial arts and gardening.
