@@ -43,6 +43,9 @@ A tinkerer, an autodidact with a knack for software systems research and develop
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
     </a>
+        <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
+    </a>
 </p>
 
 ### Backend Stack
