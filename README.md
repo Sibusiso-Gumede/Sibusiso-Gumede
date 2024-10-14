@@ -94,10 +94,10 @@ A tinkerer, an autodidact with a knack for software systems research and develop
     <a href="https://www.linux.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
     </a>
-        <a href="https://www.apple.com/macos" target="_blank" rel="noreferrer">
+    <a href="https://www.apple.com/macos" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mac-os-colored.svg" width="36" height="36" alt="Mac OS" />
     </a>
-        <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
+    <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/windows-colored.svg" width="36" height="36" alt="Windows" />
     </a>
 </p>
