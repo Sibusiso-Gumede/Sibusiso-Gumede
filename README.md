@@ -3,7 +3,7 @@ About Me
 
 A tinkerer, an autodidact with a knack for software systems research and development. I am passionate about building fullstack products, from developing the backend components to designing intuitive user interfaces. I am well acquainted with a myriad of technologies: including payment gateways, distributed systems, RESTful APIs and more.
 
-- I've recently deployed a shopping utility app <a href="https://discountmygroceries.today" target="_blank" rel="noreferrer">Discount My Groceries</a>.
+- I've recently deployed a shopping utility app <a href="https://discountmygroceries.today" target="_blank">Discount My Groceries</a>.
 - I'm working on a geolocation app called Loop of Things using Flutter for the mobile version implementaion.
 - During my leisure time I immerse myself in mixed martial arts and gardening.
 - You can contact me at [sibusisojgumede@icloud.com](mailto:sibusisojgumede@icloud.com)
