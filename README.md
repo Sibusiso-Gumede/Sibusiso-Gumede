@@ -1,7 +1,7 @@
 About Me
 --------
 
-Composition/decomposition, high-performance programming, data analytics, automation, cloud computing, and more 
+Mr. Composition/decomposition, high-performance programming, data analytics, automation, cloud computing, and more 
 
 - I've recently deployed a shopping web app named <a href="https://discountmygroceries.today" target="_blank">Discount My Groceries</a>.
 - I'm working on a geolocation app called <a href="https://github.com/Sibusiso-Gumede/loop-of-things" target="_blank">Loop of Things</a> using React Native for the mobile version implementaion.
